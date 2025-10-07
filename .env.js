@@ -1,7 +1,0 @@
-
-PORT=5000
-MONGO_URI=mongodb;//localhost:27017/authdb
-JWT_ACCESS_SECRET=replace_with_strong_secret
-JWT_REFRESH_SECRET=replace_with_another_strong_secret
-ACCESS_TOKEN_EXPIRY=15m
-REFRESH_TOKEN_EXPIRY=7d
